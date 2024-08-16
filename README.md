@@ -4,3 +4,4 @@ This repository contains code snippets and a small demo to illustrate the networ
 Notes:
 - If you want to make use of the OpenAI embedding models, you should have a folders `secrets` which holds your API key
 - The Twitter data is assumed to be stored in a MongoDB with a collection holding the raw tweets and another one with the authors that accur in the dataset.
+- a conda environment file is provided.
